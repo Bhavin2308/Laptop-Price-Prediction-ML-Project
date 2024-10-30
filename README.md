@@ -40,3 +40,8 @@ Questions:
 12. Which machine learning model is most suitable for training the data, considering its characteristics?
 13. How can the accuracy of the trained model be evaluated to determine its effectiveness?
 14. Proper approach to enhance the model by certain techniques must be done?
+
+Outcome:
+--> Implemented various regression types of machine learning models like Linear Regression, Decision Tree Regressor, Random Forest Regressor, SVR etc. In order to find best suitable type of model in Jupiter Notebook.
+--> Optimize the regressor model by randomized grid search method by applying various parameters like n estimators, random state etc.
+--> Applied various data cleaning and normalizing techniques using Pandas and NumPy libraries in order to make data useful.
