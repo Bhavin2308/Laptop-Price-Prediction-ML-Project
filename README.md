@@ -42,6 +42,8 @@ Questions:
 14. Proper approach to enhance the model by certain techniques must be done?
 
 Outcomes:
+
+
 --> Implemented various regression types of machine learning models like Linear Regression, Decision Tree Regressor, Random Forest Regressor, SVR etc. In order to find best suitable type of model in Jupiter Notebook.
 
 
